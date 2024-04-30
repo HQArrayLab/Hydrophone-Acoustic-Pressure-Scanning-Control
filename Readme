@@ -8,4 +8,4 @@ The code was test on Windows 10.
 
 The system consists of a signal generator (RIGOL DG1032), a oscilloscope (RIGOL MSO5354), a power amplifier, a PA needle hydrophone, a host computer, and the scanning moter (controlled through ZHANGDA TOU Emm42_V5.0 stepper motor closed-loop driver).
 
-![image](system.png)
+![image](https://github.com/HQArrayLab/Hydrophone_system_control/blob/main/system.png?raw=true)
