@@ -8,9 +8,9 @@ The code is open-source.
 
 The code was test on Windows 10.
 
-scan1.m is used for scanning the sound field distribution along the vertical direction.
+scan1.m is used for scanning the two-dimensional sound field distribution along the vertical direction.
 
-scan2.m is used for scanning the two-dimensional sound field distribution along both the horizontal and vertical directions.
+scan2.m is used for scanning the two-dimensional sound field distribution along the horizontal direction.
 
 waveread.m is used for reading and storing the waveforms from a RIGOL oscilloscope.
 
