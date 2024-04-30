@@ -1,12 +1,18 @@
-This is a code for ultrasound hydrophone system control.
+This is a sound field scanning system for underwater acoustic pressure, which contains code for stepper motor control, waveform reading and sound field scanning.
 
-This code was compiled in Matlab 2022b.
+The code and system were developed by Hanming Zheng.
+
+The code was compiled in Matlab 2022b.
 
 The code is open-source.
 
 The code was test on Windows 10.
 
-The code was written by Hanming Zheng.
+scan1.m is used for scanning the sound field distribution along the vertical direction.
+
+scan2.m is used for scanning the two-dimensional sound field distribution along both the horizontal and vertical directions.
+
+waveread.m is used for reading and storing the waveforms from a RIGOL oscilloscope.
 
 The system consists of a signal generator (RIGOL DG1032), a oscilloscope (RIGOL MSO5354), a power amplifier, a PA needle hydrophone, a host computer, and the scanning moter (controlled through ZHANGDA TOU Emm42_V5.0 stepper motor closed-loop driver).
 
