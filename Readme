@@ -1,1 +1,9 @@
 This is a code for ultrasound hydrophone system control.
+
+This code was compiled in Matlab 2022b.
+
+The code is open-source.
+
+The code was test on Windows 10.
+
+The system consists of a signal generator, a oscilloscope, a power amplifier, a PA needle hydrophone, a host computer, and the scanning gantry.
