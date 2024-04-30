@@ -1,6 +1,6 @@
 This is a sound field scanning system for underwater acoustic pressure, which contains code for stepper motor control, waveform reading and sound field scanning.
 
-The code and system were developed by Hanming Zheng.
+The code was developed by Hanming Zheng.
 
 The code was compiled in Matlab 2022b.
 
